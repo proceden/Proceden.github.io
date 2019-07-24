@@ -1,2 +1,2 @@
 # proceden-web
-Web platform 
+Web platform to create, share and compare procedures.
